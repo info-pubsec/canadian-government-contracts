@@ -26,7 +26,7 @@ Canada buys $200B+ a year and posts it all publicly — across two dozen portals
 3. Watch renewal cycles — most service contracts repeat on 2-4 year schedules
 4. Start with lower-value competitive opportunities to build a track record
 
-**Find every opportunity in one feed: [PubSec.Pro](https://pubsec.pro)**
+**Every opportunity + AI proposal drafting from your track record: [PubSec.Pro](https://pubsec.pro)**
 
 ---
 Statistics from the [compiled procurement corpus](https://publicserviceindex.org). Data tools: [pubsec/data](https://pubsecdata.org).
